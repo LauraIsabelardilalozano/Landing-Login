@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url("https://i.pinimg.com/1200x/1c/59/dc/1c59dcecc6255fb561758fa85bb17863.jpg");
+    background-size: cover;
+    
+}
+
+.cc{
+    margin-top: 2.5rem;
+    width: 27rem;
+    background-color: transparent;
+    border: 0.125rem solid rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(0.9rem);
+    box-shadow: 0 0 0.625rem rgba(0, 0, 0, 0.2);
+    color: #fff;
+    border-radius: 1rem;
+    padding: 1.7rem 1.975rem;
+    text-align: center;
+}
